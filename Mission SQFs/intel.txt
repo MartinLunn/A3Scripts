@@ -1,0 +1,50 @@
+Stock Record - Mike-26
+
+Inventory ID		Name				Description			Unit Price			# in stock	# in transit	Reorder level
+5XHDD1				Rice bag			10Kg				105					147			12				221
+5XHDD2				30Rnd Magazine		5.56 x 39mm			307					443			0				350
+5XHDG1				Bullets				5.56 x 39mm			19					19,591		1,200			15,000
+6HFUU7				Water Tank Fresh	150L				220					35			-10				100
+9ZZAA1				----------------	-----------			-----				0			2				0
+0RQNE3				Bunk Mattress x2	38" x 80"			450					2			7				10
+
+
+Copy of flight plan log:
+Flight Number		Departure Location		Departure Time		Destination			Arrival Time	Aircraft	Cargo
+NKAF167				Pyongyang				1840				Stratis Airport		2014			An-24		Rice, Water, Bullets
+NKAF170				Stratis Airport			0714				Kaesong				0843			An-24		3x men
+NKAF2280			Wonsan					0902				Rogain				0945			Mi-14		Bunk Mattress
+NKAF2280			Rogain					1238				Wonsan				1324			Mi-14		Magazines
+NKAF774				Kaesong					1421				Pyongyang			1557			An-24		empty
+NKAF167				Pyongyang				1840				Stratis Airport		2014			An-24		Rice, Water, Bullets
+NKAF170				Stratis Airport			0714				Kaesong				0843			An-24		3x men
+NKAF2280			Wonsan					0902				Rogain				0945			Mi-14		Bunk Mattress
+NKAF2280			Rogain					1238				Wonsan				1324			Mi-14		Magazines
+NKAF774				Kaesong					1421				Pyongyang			1557			An-24		7x men
+NKAF167				Pyongyang				1840				Stratis Airport		2014			An-24		Rice, Water, Bullets
+NKAF170				Stratis Airport			0714				Kaesong				0843			An-24		empty
+NKAF2280			Wonsan					0902				Rogain				0945			Mi-14		Bunk Mattress
+NKAF001				Wonsan					1106				LZ Connor			1431			Mil Mi-26	Unspecified - Other
+NKAF2280			Rogain					1238				Wonsan				1324			Mi-14		Magazines
+NKAF774				Kaesong					1421				Pyongyang			1557			An-24		22x men
+
+
+
+
+재고 레코드
+
+재고		기록은		연방 		기금으로	구입		한		모든		장비에
+대해 		정기적으로 	유지 		보수		및		업데이		트해		야합니
+다		물리적		인		장비		목록을		작		성해		야하며
+년에		한		번씩		결과를		재산		기록과		조정해야	합니
+다		재고		기록에는	다음		정보가		포		함되		어
+야합니		다프로그램	자금		조달		매수		설명		목매수		주문 
+
+
+
+
+
+
+번호		매수		가격		매수		날짜		일련		번호		또는	
+기타 		신		분증번		호물		리		적위		치목조		건목
+날		짜처분		판		매가		격		련일		조달		어

@@ -1,0 +1,94 @@
+Zeus Notes:
+Briefing:
+Objective
+Tactical:
+	Mines
+	Civvies
+	Enemy Assets
+	respawns
+	asset respawns
+	Failure conditions
+
+
+Global AI Skill
+Ambient animation
+Wind
+Time
+	Time accel 0
+	Set time correct
+	Set Date
+	
+	
+Start Mission
+TP Pole
+Time accel
+
+LEAFLET BOMBS!!!
+
+Mission Ideas
+Voter Suppression
+Save detained U.s. citizens from China
+	they have info of like biological weapons or something
+	tasked with removing them
+Combat Patrol
+Comms takedown
+russian invasion of finland
+religious persecution in Syria
+board a ship and take it out
+hunting mission
+tanoa zombie mission pmc protecting archaeologists red light earthquakes night
+
+escape
+syria UN humanitarian
+escape
+some organized crime
+asset denial (ammo? fuel?)
+asset recovery
+carrier invasion
+thunder run/escape
+relieve pinned down friendlies
+extract VIP
+naval landing and attack
+turncoat enemy officer
+rescue friendly commander
+terrorists
+rebels
+
+checkpoint for drug lords combined with raid on their base
+
+MIP
+Redfor Convoy ambush on takistan
+
+
+Ideas for scripts
+https://community.bistudio.com/wiki/createDiaryRecord
+Gear script -> selection but for all players in group 
+	this can do compositions
+
+Use Chatter to speak to entire player base
+
+Find out how to broadcast on all freqs
+
+timer without ending scenario
+
+Earthquake  atmosphere?
+
+flicker light using toggle lights
+
+can we open and close doors?
+
+Sounds Lerto
+
+Zombies cinefax
+
+arsenals section
+Setting up an Arsenal outside of the start area
+
+Any and all objects that are placed can be assigned to become an Arsenal, however it is advised to go into the Singular items, then search for ‘Supply’ in the Empty tab. This is what is used in spawn and players will usually recognize this as the Arsenal. You can then find Add Full Arsenal by either searching or finding it under the appropriate tab. There are two options, either works. Click the object you want to make an Arsenal and the players will then have to access the arsenal by using Ace Interact. After this is done you can usually remove the arsenal (so as to not be abused by those pesky players!).
+
+3.5 Keybinds
+
+Questions
+TP pole in air
+custom arsenals
+modules -> arsenals
